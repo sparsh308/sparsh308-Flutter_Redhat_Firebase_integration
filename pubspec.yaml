@@ -32,7 +32,8 @@ dependencies:
   cloud_firestore: ^0.12.9+5
   bot_toast: ^3.0.0
   http: ^0.12.2
-
+  firebase_auth: ^0.14.0+5
+  modal_progress_hud: ^0.1.3
 
 
 
