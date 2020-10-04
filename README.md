@@ -2,8 +2,9 @@
 
 <img alt="redhat logo" src="https://www.capgemini.com/wp-content/uploads/2019/04/Logo-RedHat-A-Color-RGB.png" height=200px /></a>                 
 <img alt="flutter logo" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" height=55px /></a>
-<img alt="flutter logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Firebase_Logo.png/1200px-Firebase_Logo.png" height=70px /></a>" 
+<img alt="flutter logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Firebase_Logo.png/1200px-Firebase_Logo.png" height=70px /></a>
 
+<img alt="flutter logo" src="https://user-images.githubusercontent.com/47140660/95018435-5dd74600-067d-11eb-9c2a-01f8ed19e153.png" height=500px /></a>
 
 ## Getting Started
 
